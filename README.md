@@ -17,23 +17,23 @@ El tablero y toda la información que el usuario podrá apreciar está en idioma
 
 ## Paginas
 
-![App Screenshot](https://i2.paste.pics/b266ce174d7f260943054c819589732b.png?trs=565a9363989185f7394e547537311f14076d4985c00ebe7c1f009377ba48da0a)
+![App Screenshot](http://drive.google.com/uc?export=view&id=1cIJOZ-dv98iNIkJm0yci5SjsccBKvI5l)
 
 
 
-![App Screenshot](https://i2.paste.pics/d89c640986afb9dd80344122d8f5423f.png?trs=565a9363989185f7394e547537311f14076d4985c00ebe7c1f009377ba48da0a)
+![App Screenshot](http://drive.google.com/uc?export=view&id=1fOtRbqGMaQq5ndOsy48-gjmvFlePH1vS)
 
 
 
-![App Screenshot](https://i2.paste.pics/3c423ba75b00a8b0442b40603c458081.png?trs=565a9363989185f7394e547537311f14076d4985c00ebe7c1f009377ba48da0a)
+![App Screenshot](http://drive.google.com/uc?export=view&id=126-_1o6VMdTY4NdasF-vtsyBofRFulhh)
 
 
 
-![App Screenshot](https://i2.paste.pics/327f9897418210e5a57cc99ffce9bb5e.png?trs=565a9363989185f7394e547537311f14076d4985c00ebe7c1f009377ba48da0a)
+![App Screenshot](http://drive.google.com/uc?export=view&id=1SBt0IS5NnsutiHxaNX_nh8gpf_P2CAV8)
 
 
 
-![App Screenshot](https://i2.paste.pics/adf3d0898d1b6a4bdc842a097fc44e3d.png?trs=565a9363989185f7394e547537311f14076d4985c00ebe7c1f009377ba48da0a)
+![App Screenshot](http://drive.google.com/uc?export=view&id=1vOKpCp0SnwIiDZfJvRoyfACDGmvtYDQs)
 ## Fuente de los archivos utilizados
 
 Registros EANA:
