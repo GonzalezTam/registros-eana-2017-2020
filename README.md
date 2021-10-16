@@ -17,23 +17,23 @@ El tablero y toda la información que el usuario podrá apreciar está en idioma
 
 ## Paginas
 
-![App Screenshot](http://drive.google.com/uc?export=view&id=1cIJOZ-dv98iNIkJm0yci5SjsccBKvI5l)
+![](Portada.png)
 
 
 
-![App Screenshot](http://drive.google.com/uc?export=view&id=1fOtRbqGMaQq5ndOsy48-gjmvFlePH1vS)
+![](Glosario.png)
 
 
 
-![App Screenshot](http://drive.google.com/uc?export=view&id=126-_1o6VMdTY4NdasF-vtsyBofRFulhh)
+![](Overview.png)
 
 
 
-![App Screenshot](http://drive.google.com/uc?export=view&id=1SBt0IS5NnsutiHxaNX_nh8gpf_P2CAV8)
+![](Tops.png)
 
 
 
-![App Screenshot](http://drive.google.com/uc?export=view&id=1vOKpCp0SnwIiDZfJvRoyfACDGmvtYDQs)
+![](Busqueda.png)
 ## Fuente de los archivos utilizados
 
 Registros EANA:
